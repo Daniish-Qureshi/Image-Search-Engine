@@ -1,8 +1,5 @@
 # Image Search Engine
 
-## Introduction
-The **Image Search Engine** is a web application that allows users to search for images using keywords. The search results are displayed in an image format, providing a seamless and visual search experience. This project utilizes HTML, CSS, JavaScript, and an API key to fetch and display images.
-
 ## Demo Screenshots
 
 ![Demo Screenshot](https://github.com/Daniish-Qureshi/Image-Search-Engine/blob/main/Demo.png)
@@ -11,7 +8,10 @@ The **Image Search Engine** is a web application that allows users to search for
 
 Click the button below to see the project in action:
 
-[![Demo](https://daniish-qureshi.github.io/Image-Search-Engine/)
+[![Demo](https://img.shields.io/badge/LIVE-DEMO-black)](https://daniish-qureshi.github.io/Image-Search-Engine/)
+
+## Introduction
+The **Image Search Engine** is a web application that allows users to search for images using keywords. The search results are displayed in an image format, providing a seamless and visual search experience. This project utilizes HTML, CSS, JavaScript, and an API key to fetch and display images.
 
 
 ## Technologies Used
